@@ -38,6 +38,7 @@ brew cask install teamviewer
 brew cask install tunnelblick
 brew cask install vnc-viewer
 brew cask install paragon-extfs
+brew cask install scroll-reverser
 
 # infosec
 brew cask install hopper-disassembler
