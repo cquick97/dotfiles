@@ -15,6 +15,4 @@ chsh -s /usr/local/bin/zsh
 mkdir ~/.hammerspoon
 ln -s hammerspoon ~/.hammerspoon/init.lua
 ln -s zshrc ~/.zshrc
-ln -s vimrc ~/.vimrc
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 

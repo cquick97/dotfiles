@@ -37,6 +37,7 @@ brew cask install the-unarchiver
 brew cask install teamviewer
 brew cask install tunnelblick
 brew cask install vnc-viewer
+brew cask install paragon-extfs
 
 # infosec
 brew cask install hopper-disassembler
